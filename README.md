@@ -17,9 +17,9 @@
 
 ### Screenshot
 
-![Desktop](desktop.png)
-![Tablet](tablet.png)
-![Mobile](mobile.png)
+![Desktop](./screenshots/desktop.png)
+![Tablet](./screenshots/tablet.png)
+![Mobile](./screenshots/mobile.png)
 
 ### Links
 
