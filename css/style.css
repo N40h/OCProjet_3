@@ -428,12 +428,12 @@ footer ul {
     /****** Hebergements ***********/
     #hebergements {
         width: 100%;
+        margin-bottom: 50px;
     }
 
     /****** Populaires ***********/
     .populaires {
         width: 100%;
-        /* margin-top: 50px; */
     }
 
     .populaires-cards {
@@ -538,7 +538,6 @@ footer ul {
     }
 
     .filter-btn button {
-        /* flex-grow: 1; */
         flex: 1;
     }
 
