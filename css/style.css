@@ -482,15 +482,25 @@ footer ul {
 
     .menu ul {
         gap: 0;
+        padding: 0;
     }
 
     .menu li {
         width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .menu a {
+        width: 100%;
+        border-bottom: 2px solid var(--main-bg-color);
+        padding-bottom: 14px;
     }
             
     .menu a:hover {
         border-top: none;
         border-bottom: 2px solid var(--main-color);
+        width: 100%;
         padding-top: 0;
         padding-bottom: 14px;
     }
